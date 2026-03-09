@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>About Me — Tim</title>
+    <meta name="description" content="Tim's self-introduction page with Key-inspired mood and personal notes." />
+    <link rel="stylesheet" href="about.css" />
+  </head>
+
+  <body>
+    <div class="bg-glow" aria-hidden="true"></div>
+
+    <main class="wrap">
+      <!-- HERO -->
+      <header class="hero">
+        <div class="hero-left">
+          <div class="pill">
+            <span class="dot"></span>
+            Level 11 · Auckland · Digital Technology
+          </div>
+
+          <h1 class="title">
+            Hi, I’m <span class="accent">Tim</span>.
+            <br />
+            I like turning my interests into real work.
+          </h1>
+
+          <p class="lead">
+            I’m a straightforward person — I don’t really hide what I think.
+            I prefer things 
+          that are clear, honest, and well-finished.
+            <br />
+            I’m also a <span class="key">Key</span> fan: not just for “sad moments,”
+            but for the calm strength and the long-lasting aftertaste in their stories.
+          </p>
+
+          <div class="stats">
+            <div class="card stat">
+              <div class="k">Who I am</div>
+              <div class="v">Student / Creator / Key fan</div>
+            </div>
+            <div class="card stat">
+              <div class="k">My style</div>
+              <div class="v">Clean, calm, readable</div>
+            </div>
+            <div class="card stat">
+              <div class="k">What I practice</div>
+              <div class="v">Communication + Design + Finishing</div>
+            </div>
+          </div>
+
+          <blockquote class="quote card">
+            <div class="qmark" aria-hidden="true">“</div>
+            <div>
+              <p class="qmain">「約束は、風のなかに。」</p>
+              <p class="qsub">
+                For me, it’s a direction: stay true, stay consistent, keep moving forward.
+              </p>
+            </div>
+          </blockquote>
+        </div>
+
+        <div class="hero-right">
+          <figure class="figure card">
+            <img
+              src="images/key%2020%20th.jpg"
+              alt="Key 20th artwork"
+              loading="eager"
+            />
+            <figcaption>
+              The mood I love: bright and clean, but never loud.
+            </figcaption>
+          </figure>
+
+          <div class="chips">
+            <span class="chip">About me</span>
+            <span class="chip">Mindset</span>
+            <span class="chip">Key elements</span>
+            <span class="chip">Aesthetic</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- SECTION 1 -->
+      <section class="section">
+        <div class="section-head">
+          <h2>How I work</h2>
+          <p class="muted">
+            I don’t chase flashy effects. I chase clarity: structure first, polish later.
+          </p>
+        </div>
+
+        <div class="grid2">
+          <article class="card text">
+            <h3>Structure over decoration</h3>
+            <p>
+              When I build something, I ask: who is it for, what do they need in 10 seconds,
+              and how do I make it impossible to get lost?
+            </p>
+            <p>
+              I’m careful with hierarchy, spacing, and contrast — the “boring” parts that actually
+              show discipline. If it’s easy to read, it already looks better.
+            </p>
+
+            <div class="mini">
+              <div class="mini-k">My process</div>
+              <div class="mini-v">Plan → Wireframe → Build → Test → Refine</div>
+            </div>
+          </article>
+
+          <figure class="card media">
+            <img src="images/anemoi.jpg" alt="anemoi mood image" loading="lazy" />
+            <figcaption>
+              <strong>Anemoi:</strong> I like the feeling of “wind” — calm, open, and clean.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- SECTION 2 -->
+      <section class="section alt">
+        <div class="section-head">
+          <h2>What Key taught me</h2>
+          <p class="muted">
+            Not “drama” — but restraint: saving the most important thing for the right moment.
+          </p>
+        </div>
+
+        <div class="grid2 reverse">
+          <figure class="card media">
+            <!-- IMPORTANT: rename your file to clannad-slope.jpg as I said -->
+            <img src="images/clannad-slope.jpg" alt="CLANNAD slope scene" loading="lazy" />
+            <figcaption>
+              <strong>CLANNAD:</strong> I can look back — but I still choose to move forward.
+            </figcaption>
+          </figure>
+
+          <article class="card text">
+            <h3>I love “aftertaste”</h3>
+            <p>
+              Key stories often don’t explain everything loudly, but they stay with you.
+              That’s the kind of “quiet impact” I want in my work: simple, reliable, and memorable.
+            </p>
+            <p>
+              That’s why I like dark backgrounds with clear titles and soft spacing —
+              information should feel like light, not noise.
+            </p>
+
+            <div class="mini">
+              <div class="mini-k">What I care about</div>
+              <div class="mini-v">Clarity · Stability · Long-term growth</div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- SECTION 3 -->
+      <section class="section">
+        <div class="section-head">
+          <h2>When I need motivation</h2>
+          <p class="muted">
+            I sometimes procrastinate too — my reset button is “make the next step real.”
+          </p>
+        </div>
+
+        <div class="grid3">
+          <article class="card text">
+            <h3>Angel Beats: momentum</h3>
+            <p>
+              When I finally start, I want to finish properly. Even one small improvement per session
+              (layout, spacing, typography) adds up fast.
+            </p>
+          </article>
+
+          <figure class="card media">
+            <img src="images/Angel%20Beats.jpg" alt="Angel Beats artwork" loading="lazy" />
+            <figcaption>For “push forward” energy.</figcaption>
+          </figure>
+
+          <article class="card text">
+            <h3>I’m not afraid of slow — I’m afraid of stopping</h3>
+            <p>
+              Consistency beats intensity. If I keep moving, the result will surprise me later.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <!-- SECTION 4 -->
+      <section class="section alt">
+        <div class="section-head">
+          <h2>How I connect with people</h2>
+          <p class="muted">
+            I prefer direct, honest communication. I might not be fancy — but I’m reliable.
+          </p>
+        </div>
+
+        <div class="grid2 reverse">
+          <figure class="card media">
+            <img src="images/Little%20Buster.jpg" alt="Little Busters artwork" loading="lazy" />
+            <figcaption><strong>Little Busters:</strong> I value “teammate energy”.</figcaption>
+          </figure>
+
+          <article class="card text">
+            <h3>I want to be “easy to work with”</h3>
+            <p>
+              In design, I make things simple so users don’t get tired.
+              In real life, I try to be the same: clear, consistent, and dependable.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <!-- SECTION 5 -->
+      <section class="section">
+        <div class="section-head">
+          <h2>My summer mood</h2>
+          <p class="muted">
+            Not sugary — more like clear light, sea wind, and gentle warmth.
+          </p>
+        </div>
+
+        <div class="grid2">
+          <article class="card text">
+            <h3>Summer Pockets: clean light</h3>
+            <p>
+              I like stories that feel “light” on the surface but deep inside.
+              That’s also how I want my page to feel: noticeable and readable, not crowded.
+            </p>
+          </article>
+
+          <figure class="card media">
+            <img src="images/Summer%20pockets.jpg" alt="Summer Pockets artwork" loading="lazy" />
+            <figcaption>Like a breeze: clean, real, and quietly memorable.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- GALLERY -->
+      <section class="section gallery">
+        <div class="section-head">
+          <h2>My Key moodboard</h2>
+          <p class="muted">
+            Not decoration — these images are my “emotional colour palette”.
+          </p>
+        </div>
+
+        <div class="masonry">
+          <figure class="tile card">
+            <img src="images/Clannad.jpg" alt="Clannad artwork" loading="lazy" />
+            <figcaption>CLANNAD: everyday life is worth protecting.</figcaption>
+          </figure>
+
+          <figure class="tile card">
+            <img src="images/anemoi%E6%9C%B1%E6%AF%94%E5%8D%8E.jpg" alt="anemoi extra artwork" loading="lazy" />
+            <figcaption>Wind & light: calm rhythm, clean spacing.</figcaption>
+          </figure>
+
+          <figure class="tile card">
+            <img src="images/key%2020%20th.jpg" alt="Key 20th" loading="lazy" />
+            <figcaption>Key: quiet, but powerful.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <div class="line"></div>
+        <p class="foot">© 2026 Tim · About Me (EN)</p>
+      </footer>
+    </main>
+  </body>
+</html>
